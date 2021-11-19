@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mosnegutucosmin
 - 👀 I’m interested in work from home
-- 🌱 I’m currently learning Web Developement
+- 🌱 I’m Back-End Dev. (Link Academy Course)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
