@@ -12,8 +12,6 @@
 
 - 👯 I want to learn as many new things as possible and I am open to **new challenges**.
 
-- 👨‍💻 All of my projects are available at **portoflio site coming soon**
-
 - 📫 How to reach me **mosnegutu_cosmin@yahoo.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
