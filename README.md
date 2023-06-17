@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently search for a job!**
 
-- 🌱 I’m currently learning **React with Redux.**
+- 🌱 I’m currently learning **.NET Core**
 
 - 👯 I want to learn as many new things as possible and I am open to **new challenges**.
 
